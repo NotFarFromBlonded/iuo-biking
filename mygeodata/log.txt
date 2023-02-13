@@ -1,0 +1,6 @@
+Warning 6: Normalized/laundered field name: 'MOVEMENT_ID' to 'MOVEMENT_I'
+Warning 6: Normalized/laundered field name: 'DISPLAY_NAME' to 'DISPLAY_NA'
+Warning 6: Normalized/laundered field name: 'MOVEMENT_ID' to 'MOVEMENT_I'
+Warning 6: Normalized/laundered field name: 'DISPLAY_NAME' to 'DISPLAY_NA'
+Warning 6: Normalized/laundered field name: 'MOVEMENT_ID' to 'MOVEMENT_I'
+Warning 6: Normalized/laundered field name: 'DISPLAY_NAME' to 'DISPLAY_NA'
